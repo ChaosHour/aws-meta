@@ -1,7 +1,8 @@
 # aws-meta
 
 ## Usage
-```
+
+```bash
 aws-meta -h
 Usage of aws-meta:
   -r string
