@@ -7,7 +7,6 @@ import (
 	"flag"
 	"fmt"
 
-	_ "github.com/ChaosHour/aws-meta/cmd/mysql"
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/rds"
